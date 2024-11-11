@@ -48,7 +48,8 @@ curl http://localhost:3000/
 
 <h3>What you'll see</h3>
 
-![Screenshot from 2024-11-11 15-55-35](https://github.com/user-attachments/assets/98dfca28-1c11-4644-8b6f-414094d7e6e5)
+![Screenshot from 2024-11-11 16-13-09](https://github.com/user-attachments/assets/b3c17744-c83d-4a62-9698-289780ef3526)
+
 
 <p>
   Feel free to modify the code to suit your desired needs.
